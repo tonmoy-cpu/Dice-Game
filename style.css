@@ -1,0 +1,29 @@
+body {
+    background-color: #393e46 ;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    color:#4ECCA3;
+    text-shadow: 5px 0 black;
+
+}
+.dice {
+    display: inline-block;
+    margin: 1rem;
+}
+.player {
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    color:#4ECCA3;
+}
+p {
+    color: white;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
